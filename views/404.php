@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Oh No! We dont have a corny programming joke for this route !
+    Oh No! We dont have any corny programming jokes for this route !
 </body>
 </html>
