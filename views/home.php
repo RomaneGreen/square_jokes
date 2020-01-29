@@ -1,13 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Q. How did the programmer die in the shower?</h1>
-   <h2>A. He read the shampoo bottle instructions: Lather. Rinse. Repeat.</h2>
-</body>
-</html>
+<?php
+
+$url = 'data.json'; // path to your JSON file
+$data = file_get_contents($url); // put the contents of the file into a variable
+$characters = json_decode($data); // decode the JSON feed
+
+$randNum = rand(0,4);
+echo $characters[$randNum]->name; echo "<br>";
+echo $characters[$randNum]->race;
+
+?>
+
+<!-- 
+<table>
+	<tbody>
+	
+		
+        <tr> -->
+            
+        <!-- </tr>
+
+	</tbody>
+</table> -->
+
