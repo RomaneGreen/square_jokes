@@ -1,17 +1,17 @@
 [{
-	"name": "Q. How many programmers does it take to change a light bulb?",
-	"race": "A. None – It’s a hardware problem"
+	"Ques": "Q. How many programmers does it take to change a light bulb?",
+	"Ans": "A. None – It’s a hardware problem"
 }, {
-	"name": "Q. Why do programmers always mix up Halloween and Christmas?",
-	"race": "A. Because Oct 31 equals Dec 25."
+	"Ques": "Q. Why do programmers always mix up Halloween and Christmas?",
+	"Ans": "A. Because Oct 31 equals Dec 25."
 }, {
-	"name": "Q. How did the programmer die in the shower?",
-	"race": "A .He read the shampoo bottle instructions: Lather. Rinse. Repeat."
+	"Ques": "Q. How did the programmer die in the shower?",
+	"Ans": "A .He read the shampoo bottle instructions: Lather. Rinse. Repeat."
 },{
-	"name": "Q.Why did the programmer quit his job?",
-	"race": "A. Because he didn’t get arrays."
+	"Ques": "Q.Why did the programmer quit his job?",
+	"Ans": "A. Because he didn’t get arrays."
 },{
-	"name": "Q. Have you heard about the object-oriented way to become wealthy?",
-	"race": "A. Inheritance."
+	"Ques": "Q. Have you heard about the object-oriented way to become wealthy?",
+	"Ans": "A. Inheritance."
 }
 ]
