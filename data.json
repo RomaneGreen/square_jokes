@@ -1,0 +1,21 @@
+[{
+	"name": "Aragorn",
+	"race": "Human"
+}, {
+	"name": "Legolas",
+	"race": "Elf"
+}, {
+	"name": "Gimli",
+	"race": "Dwarf"
+},{
+	"name": "Dave",
+	"race": "Dwarf"
+},{
+	"name": "John",
+	"race": "Dwarf"
+},
+{
+	"name": "Kobe",
+	"race": "Dwarf"
+}
+]
