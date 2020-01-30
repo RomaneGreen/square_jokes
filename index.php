@@ -10,7 +10,7 @@ switch ($request_uri[0]) {
         break;
     // About page
     case '/jokes':
-        require './views/about.php';
+        require './views/jokes.php';
         break;
     // Everything else
     default:
